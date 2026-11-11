@@ -26,4 +26,3 @@ We build useful things across music, infrastructure, education, gaming, and fina
 | [Denote](https://github.com/denote-io) | Local-first writing and knowledge tools. |
 | [Moguri](https://github.com/moguri-dev) | Developer tools for agentic engineering. |
 
-Repository links use their planned organization locations. Some may be private or pending transfer.
