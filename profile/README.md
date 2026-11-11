@@ -2,7 +2,9 @@
 
 <img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/29f72045-ae5e-46bf-abbe-139a49afcfac" />
 
-Synctune brings together independent software, creative tools, and open-source projects. We build useful things across music, infrastructure, education, gaming, and finance.
+Synctune brings together independent software, creative tools, and open-source projects. 
+
+We build useful things across music, infrastructure, education, gaming, and finance.
 
 ## Projects
 
