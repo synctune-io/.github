@@ -7,7 +7,6 @@ Synctune brings together independent software, creative tools, and open-source p
 | Repository | Focus |
 | --- | --- |
 | [mbianchi.dev](https://github.com/synctune-io/mbianchi.dev) | Personal website. |
-| [branding](https://github.com/synctune-io/branding) | Brand identities, logos, and design guidelines. |
 
 ## Organizations
 
