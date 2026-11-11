@@ -24,6 +24,6 @@ We build useful things across music, infrastructure, education, gaming, and fina
 | [Synctune Finance](https://github.com/synctune-finance) | Business accounting and financial workflows. |
 | [Open Playlist](https://github.com/open-playlist) | Open standards and tools for portable music playlists. |
 | [Denote](https://github.com/denote-io) | Local-first writing and knowledge tools. |
-| [Moguri](https://github.com/moguri-dev) | Developer tools for AI-assisted engineering. |
+| [Moguri](https://github.com/moguri-dev) | Developer tools for agentic engineering. |
 
 Repository links use their planned organization locations. Some may be private or pending transfer.
