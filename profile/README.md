@@ -2,8 +2,6 @@
 
 # Synctune
 
-</div>
-
 <img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/29f72045-ae5e-46bf-abbe-139a49afcfac" />
 
 Synctune brings together independent software, creative tools, and open-source projects. 
@@ -30,3 +28,4 @@ We build useful things across music, infrastructure, education, gaming, and fina
 | [Denote](https://github.com/denote-io) | Local-first writing and knowledge tools. |
 | [Moguri](https://github.com/moguri-dev) | Developer tools for agentic engineering. |
 
+</div>
