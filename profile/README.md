@@ -1,4 +1,8 @@
+<div align="center">
+
 # Synctune
+
+</div>
 
 <img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/29f72045-ae5e-46bf-abbe-139a49afcfac" />
 
